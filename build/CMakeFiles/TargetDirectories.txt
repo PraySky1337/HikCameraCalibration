@@ -1,0 +1,3 @@
+/home/sxs/PraySky/demo/build/CMakeFiles/camera.dir
+/home/sxs/PraySky/demo/build/CMakeFiles/edit_cache.dir
+/home/sxs/PraySky/demo/build/CMakeFiles/rebuild_cache.dir

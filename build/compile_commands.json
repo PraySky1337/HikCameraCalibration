@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sxs/PraySky/demo/build",
+  "command": "/usr/bin/g++ -I/home/sxs/PraySky/demo/camera/include -isystem /usr/include/opencv4 -g -o CMakeFiles/camera.dir/src/camera.cpp.o -c /home/sxs/PraySky/demo/camera/src/camera.cpp",
+  "file": "/home/sxs/PraySky/demo/camera/src/camera.cpp"
+},
+{
+  "directory": "/home/sxs/PraySky/demo/build",
+  "command": "/usr/bin/g++ -I/home/sxs/PraySky/demo/camera/include -isystem /usr/include/opencv4 -g -o CMakeFiles/camera.dir/main.cpp.o -c /home/sxs/PraySky/demo/camera/main.cpp",
+  "file": "/home/sxs/PraySky/demo/camera/main.cpp"
+}
+]
