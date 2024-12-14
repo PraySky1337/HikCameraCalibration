@@ -1,0 +1,8 @@
+# ninja log v5
+0	1372	1734156470603128741	camera/CMakeFiles/camera.dir/src/camera.cpp.o	9124c35a70f8fc75
+1	1052	1734156520370446113	camera/CMakeFiles/camera.dir/main.cpp.o	d34777a6aa2ccf02
+1	1375	1734156615766552595	camera/CMakeFiles/camera.dir/main.cpp.o	974388eb7f2c1dcc
+1	1782	1734156616172674155	hik_driver/CMakeFiles/hik_driver.dir/src/HikDriver.cpp.o	48853895f302fdcc
+1	1805	1734156616196681289	camera/CMakeFiles/camera.dir/src/camera.cpp.o	1268307421de867d
+1782	1824	1734156616215686936	hik_driver/libhik_driver.a	6d5c2aca1c454edf
+1824	2222	1734156616609804049	../bin/camera	c0e005dc8328fb2a

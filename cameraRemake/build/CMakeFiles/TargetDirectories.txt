@@ -1,0 +1,8 @@
+/home/sxs/PraySky/demo/cameraRemake/build/CMakeFiles/edit_cache.dir
+/home/sxs/PraySky/demo/cameraRemake/build/CMakeFiles/rebuild_cache.dir
+/home/sxs/PraySky/demo/cameraRemake/build/camera/CMakeFiles/camera.dir
+/home/sxs/PraySky/demo/cameraRemake/build/camera/CMakeFiles/edit_cache.dir
+/home/sxs/PraySky/demo/cameraRemake/build/camera/CMakeFiles/rebuild_cache.dir
+/home/sxs/PraySky/demo/cameraRemake/build/hik_driver/CMakeFiles/hik_driver.dir
+/home/sxs/PraySky/demo/cameraRemake/build/hik_driver/CMakeFiles/edit_cache.dir
+/home/sxs/PraySky/demo/cameraRemake/build/hik_driver/CMakeFiles/rebuild_cache.dir
