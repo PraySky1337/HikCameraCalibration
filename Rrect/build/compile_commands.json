@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sxs/PraySky/demo/Rrect/build",
-  "command": "/usr/bin/g++ -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/demo.dir/main.cpp.o -c /home/sxs/PraySky/demo/Rrect/main.cpp",
-  "file": "/home/sxs/PraySky/demo/Rrect/main.cpp"
-}
-]

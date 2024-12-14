@@ -1,3 +1,0 @@
-/home/sxs/PraySky/demo/Rrect/build/CMakeFiles/demo.dir
-/home/sxs/PraySky/demo/Rrect/build/CMakeFiles/edit_cache.dir
-/home/sxs/PraySky/demo/Rrect/build/CMakeFiles/rebuild_cache.dir

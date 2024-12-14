@@ -1,5 +1,0 @@
-/home/sxs/PraySky/demo/demoQT/build/CMakeFiles/QtParameterAdjustment.dir
-/home/sxs/PraySky/demo/demoQT/build/CMakeFiles/edit_cache.dir
-/home/sxs/PraySky/demo/demoQT/build/CMakeFiles/rebuild_cache.dir
-/home/sxs/PraySky/demo/demoQT/build/CMakeFiles/QtParameterAdjustment_autogen_timestamp_deps.dir
-/home/sxs/PraySky/demo/demoQT/build/CMakeFiles/QtParameterAdjustment_autogen.dir
